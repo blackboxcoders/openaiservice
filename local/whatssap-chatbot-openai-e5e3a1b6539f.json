@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "whatssap-chatbot-openai",
+  "private_key_id": "e5e3a1b6539fbc9be17c54865a47b75506507b63",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDxwRBikTvkSXZW\nC5eFcgVktjawuvR0/hWMqmaXUWtRpTdqMR1Zo6n+NqgVdgnyPywHgLY6DVpgsoiU\nGi+zuDcN23E9x+In3lr8CO/dQmJzLslGrezbFzeR57kn+8yHfHPYWgmtT/Um3pMU\nVr2+/C+HGVNfSSV9c+G8V2t8YDEEOOxBMRpagnxew0cSn+7FYrD663von5XpnGia\nasD6AM9EKeBq/nuXaVB1KagwNteYlR6mpbAg1icGOlCM+iHSKcYs1PvsGv1uvMll\neSnkpyylzHV98Nh1TnaguIMdjsY/yj91K0hPMm3OnqMGfi1ZoVF2YCglTq6CIO2S\nQJCU1qVBAgMBAAECggEAPCZfH0cncatdiBcmQguWj/JONTau8BTv46naELgvTYcf\n/Inv1YfFGf0bYQuXefCB0fQSYutDm1+QX9kMGVkySX5Z9JcxC95lIORQWerUd/gi\nGDXaAsEKEIFpLiuWPfeXEzODyN1mD5+9VIgoecZhROnmNoUKkOYuOiA+HBoK2BOd\n17KnqKp9fgJ1WR6l7d+t0NJkL9YSS6KkuuF986EG7gzxHr4Hja+8N+5BBActkU8f\n5GC+hgPMU1d3nuNUzo8h1opPWJ0od7OhFoHH80knFk1Vk23kpxevC0uBG/WMspU5\nLljXilGg2rTpWPMmm4QEBsoDbYXOJzAL4zXCgLZWYQKBgQD7G7K0nYN81S4yYqLD\nFzpwC2z/KaCvM9bYeJRK8+n1afWk9ebNfP2EzeafWzoOqmEMMke2QSGfe/5foAOs\nyfVA9YOc8SSkH5tyILoQ729V6qbSWlgaG/weKfmgHh1DYK48rwW+mv02wER3giSb\n8wET3y7c+Ofk/3+7SlwtM3ITtQKBgQD2drdlx8OGa/kxRIIxm0rUURyhctEGRWjd\nskWaJaFgce2ow5K64yNDotO9Z+8Z3uanS8HwGMDFGLJlcYw8zBuFKI7KSgy4P2XH\nhQHwl8GFCcPEWQP4tIAftalfKOlqYLpMoeE+7G0Oa3ydR416b/kjxIBaqSHe0J9z\n2sjS73Za3QKBgBBTg7H0j8j8/0ztVtHCX91LEOIiLb1WbICUjme1Jh/7rKn2BvST\nTNRmorj3sHWlpDurxTfXUj1RTX+gIr0IQHbhv5Xjo9M77tpjwFU7jAyU/hWtJA9G\nhITdi8paSuLHlWyCoKf84bu+knUGtCSjjw1gtGZPlJwx9HcT5ZxWvPMFAoGBAM0X\nrTW9Li/F2e/tmom9OF/Fv5V5/gbB66nQl6rWdZvUMnilhoyORuIZtSmAO6/DlRzS\nJeiuMHvTOWDBRHmzP5NnVKtxQ3RvDTsiq6KSJi+XGJljmbJ0QcohWXgei15Cb8Ul\nUFMUWwwM1f3rdQfV9fSVqFnJNK493PKDtWoSauLhAoGBAKNEypS2zhxb1FyICnow\n4hmlPKUnINiUzBPyJNPCOB/QnQRYnSRjdDNYLSVIM3fc7H014842w3KwZYibSUei\niDk7Bs8PU2zOImWEL9Fpot9ojMs33AKfITq3sV+MbHvleRWUgAfoTBqgJn9hEqO7\nj+uZ91lZ5mHSolbwdax/0Zrd\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatbot-youngliving@whatssap-chatbot-openai.iam.gserviceaccount.com",
+  "client_id": "117500084012405107274",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbot-youngliving%40whatssap-chatbot-openai.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
